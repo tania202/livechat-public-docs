@@ -1,5 +1,5 @@
 ---
-title: "Android Widget"
+title: "RAHASIAQQ"
 menuTitle: "Mobile Chat Widget for<br/><u>Android App</u>"
 tagline: "Embed Chat Widget in your Android app"
 desc: "Offer live chat support in your Android App by embedding Android Chat Widget."
